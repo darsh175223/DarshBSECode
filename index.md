@@ -5,13 +5,11 @@ This project uses a Raspberry Pi camera to capture an image and detect the objec
 |:--:|:--:|:--:|:--:|
 | Darshan Mundewadi | Amador Valley High School | Computer Science | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
-  
-# First Milestone
-  
-During the first week, I tried to connect the raspberry pi wirelessly through puTTy since I didn't have the suitable cable yet. When I received the cable I was able to use the raspberry pi terminal through Visual Studio Code or VNC viewer. Using VNC viewer I was able to power up the camera that I connected to my raspberry pi. And I used Visual Studio Code to run python scripts. I used Visual Studio Code to run machine learning models and the camera.
+ # Third Milestone
+During the third week, I used HTML and CSS to build a website that displays the live video feed of what the camera sees. The website provides the same instructions as the Visual Studio Code interface, meaning that it tells the user to cover the camera in order to take a picture. Once the image is taken, the final image that was captured will show up. I included a button labeled as "Click me to reveal object" that you can press. Once pressed it changes the title to "The possible object is: " and the text beneath to whatever object it detected, In addition, the image that displayed the video feed changes to a QR code about the object and when scanned with an iphone leads the user to a wikipedia link.
 
-<iframe width="329" height="586" src="https://www.youtube.com/embed/QS0pTYLp520" title="Darshan M Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="650" height="366" src="https://www.youtube.com/embed/Bn_5lhumlmE" title="Darshan M Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 # Second Milestone
@@ -20,7 +18,8 @@ During the second week, I used Visual Studios Code to run python to capture an i
 
 <iframe width="650" height="366" src="https://www.youtube.com/embed/fwn3j1O4J7I" title="Darshan M Milestone 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Third Milestone
-During the third week, I used HTML and CSS to build a website that displays the live video feed of what the camera sees. The website provides the same instructions as the Visual Studio Code interface, meaning that it tells the user to cover the camera in order to take a picture. Once the image is taken, the final image that was captured will show up. I included a button labeled as "Click me to reveal object" that you can press. Once pressed it changes the title to "The possible object is: " and the text beneath to whatever object it detected, In addition, the image that displayed the video feed changes to a QR code about the object and when scanned with an iphone leads the user to a wikipedia link.
+# First Milestone
+  
+During the first week, I tried to connect the raspberry pi wirelessly through puTTy since I didn't have the suitable cable yet. When I received the cable I was able to use the raspberry pi terminal through Visual Studio Code or VNC viewer. Using VNC viewer I was able to power up the camera that I connected to my raspberry pi. And I used Visual Studio Code to run python scripts. I used Visual Studio Code to run machine learning models and the camera.
 
-<iframe width="650" height="366" src="https://www.youtube.com/embed/Bn_5lhumlmE" title="Darshan M Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="329" height="586" src="https://www.youtube.com/embed/QS0pTYLp520" title="Darshan M Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
