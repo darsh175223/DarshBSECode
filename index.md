@@ -7,7 +7,7 @@ This project uses a Raspberry Pi camera to capture an image and detect the objec
 
 
 
-# Thrid Mileston
+# Thrid Milestone
 
 During the third week, I used HTML and CSS to build a website that displays the live video feed of what the camera sees. The website provides the same instructions as the Visual Studio Code interface, meaning that it tells the user to cover the camera in order to take a picture. Once the image is taken, the final image that was captured will show up. I included a button labeled as "Click me to reveal object" that you can press. Once pressed it changes the title to "The possible object is: " and the text beneath to whatever object it detected, In addition, the image that displayed the video feed changes to a QR code about the object and when scanned with an iphone leads the user to a wikipedia link.
 
