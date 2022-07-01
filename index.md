@@ -22,4 +22,4 @@ During the second week, I used Visual Studios Code to run python to capture an i
   
 During the first week, I tried to connect the raspberry pi wirelessly through puTTy since I didn't have the suitable cable yet. When I received the cable I was able to use the raspberry pi terminal through Visual Studio Code or VNC viewer. Using VNC viewer I was able to power up the camera that I connected to my raspberry pi. And I used Visual Studio Code to run python scripts. I used Visual Studio Code to run machine learning models and the camera.
 
-<iframe width="329" height="586" src="https://www.youtube.com/embed/QS0pTYLp520" title="Darshan M Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="650" height="366" src="https://www.youtube.com/embed/QS0pTYLp520" title="Darshan M Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
